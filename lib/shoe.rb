@@ -19,6 +19,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
+  #don't need this:
   # def brand=(brand)
     
   #   @brand = brand
