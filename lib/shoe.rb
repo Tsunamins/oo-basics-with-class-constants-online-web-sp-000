@@ -9,6 +9,8 @@ class Shoe
     
     BRANDS << brand
     
+    BRANDS.uniq!
+    
   end
   
 
@@ -23,7 +25,7 @@ class Shoe
     
     BRANDS << brand
     
-    BRANDS.uniq!
+    
     
   end 
     
